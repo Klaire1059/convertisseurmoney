@@ -7,7 +7,6 @@ dollars.addEventListener("input", function(){convmonnaie(this.id, this.value);})
 livres.addEventListener("input", function(){convmonnaie(this.id, this.value);});
 
 function convmonnaie(id, valeur){
-    alert("salut")
     if(id == "euros"){
         dollars.value = valeur * 1.05;
         livres.value = valeur * 0.86;

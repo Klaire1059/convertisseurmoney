@@ -1,0 +1,24 @@
+
+body {
+color:#B58567;
+background-color:#D6F4FA;
+  margin:10%
+}
+
+h2 {
+	text-align: center;
+	background-color:#F0E195;
+  	color:#91D97C;
+	font-family : Courier New, monospace;
+}
+h3 {
+  text-align: center;
+  background-color:#F0E195;
+  	color:#91D97C;
+}
+  
+}
+input[type="text"] {
+      padding: 5px;
+      width: 150px;
+    }
